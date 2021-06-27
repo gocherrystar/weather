@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">
         <h1>Weather App</h1>
       <Search />
+
+<small>
+<a href="https://github.com/gocherrystar/weather" target="_blank" rel="noreferrer">open-source code</a>  by Yue Ajioka</small>
       </header>
     </div>
   );
